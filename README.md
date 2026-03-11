@@ -1,6 +1,6 @@
 # Credit-wise-Loan-System
 
-I developed a supervised machine learning pipeline to predict loan approval status.
+Developed a supervised machine learning pipeline to predict loan approval status.
 The project involves - 
  1.Data preprocessing, 
  2.Exploratory data analysis (EDA) ,
